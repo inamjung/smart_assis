@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917960946313",
+    "firebase_url": "https://smart-assis-eec56.firebaseio.com",
+    "project_id": "smart-assis-eec56",
+    "storage_bucket": "smart-assis-eec56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917960946313:android:6e6ab0ab62debcf4f6cc58",
+        "android_client_info": {
+          "package_name": "com.smartqplk.smart_assis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917960946313-cia756924glo336ntnb3nn2hjqvtu0vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxdSzzPoKP360qq428jAaz5M-Z5WlJopI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917960946313-cia756924glo336ntnb3nn2hjqvtu0vh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917960946313-64md18d3gu4bl3ln4oksmqmtqmu0qm7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartqplk.smartAssist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
